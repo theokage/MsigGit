@@ -8,6 +8,8 @@ namespace TESTGitMsig
         {
             Console.WriteLine("Hello World!");
 
+            Console.WriteLine("Hello Théo");
+
             Console.ReadKey();
         }
     }
